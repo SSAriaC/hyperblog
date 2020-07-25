@@ -10,5 +10,6 @@ En este curso veremos de todo:
 * El flujo de trabajo en GitHub
 * El verdadero amor por las buenas practicas
 * Trucos muy locos
+* Creado por Platzi
 
 Amable recordatorio: **Este readme.md no es un chiste**
