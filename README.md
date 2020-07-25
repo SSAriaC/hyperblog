@@ -11,5 +11,6 @@ En este curso veremos de todo:
 * El verdadero amor por las buenas practicas
 * Trucos muy locos
 * Creado por Platzi
+* Incluye ejemplos en Windows, Linux y Mac
 
 Amable recordatorio: **Este readme.md no es un chiste**
