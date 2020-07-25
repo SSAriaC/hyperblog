@@ -12,5 +12,6 @@ En este curso veremos de todo:
 * Trucos muy locos
 * Creado por Platzi
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Amable recordatorio: **Este readme.md no es un chiste**
